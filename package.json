@@ -39,7 +39,7 @@
     "@types/js-yaml": "3.12.6",
     "@types/node": "12.20.15",
     "husky": "4.3.8",
-    "prettier": "2.2.1",
+    "prettier": "2.3.2",
     "pretty-quick": "3.1.1",
     "rimraf": "3.0.2",
     "ts-node": "9.1.1",
